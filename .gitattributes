@@ -1,3 +1,7 @@
 Jns/ filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.sav filter=lfs diff=lfs merge=lfs -text
+Data/ filter=lfs diff=lfs merge=lfs -text
+models/ filter=lfs diff=lfs merge=lfs -text
+Jns/86_classes_test/ filter=lfs diff=lfs merge=lfs -text
+Jns/86_classes_test/* filter=lfs diff=lfs merge=lfs -text
