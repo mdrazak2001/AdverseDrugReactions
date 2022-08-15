@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="10_clss.svg"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 1058.7945 216.40405"
+   height="57.256905mm"
+   width="280.13937mm"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4503086"
+     inkscape:cx="626.07363"
+     inkscape:cy="71.36412"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4836"
+     showborder="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="221.67696"
+       y="197.88892"
+       width="157.20792"
+       height="45.507553"
+       id="rect221" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.63085,-502.21635)">
+    <text
+       xml:space="preserve"
+       id="text219"
+       style="white-space:pre;shape-inside:url(#rect221);display:inline;fill:#000000" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Chart-Layer: apples:3,bananas:5,oranges:10,pears:4"
+     id="g260"
+     transform="translate(-49.63085,-502.21635)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Chart-Layer: drug2 can increase the central nervous system depressant (cns depressant) activities of drug1:1000, drug2 can increase the serotonergic activities of drug1:1014,drug2 can increase the qtc-prolonging activities of drug1:1251,drug1 can increase the qtc-prolonging activities of drug2:1251, When drug1 and drug2 are combined the metabolism of drug1 can be decreased:2698, When drug2 is combined with drug1 the serum concentration of drug2 can be increased:3699,When drug1 and drug2 are combined the metabolism of drug2 can be decreased:3978,When drug1 is combined with drug2 the serum concentration of drug1 can be increased:4634,When drug2 is combined with drug1 the risk or severity of adverse effects can be increased:6994, When drug1 is combined with drug2 the risk or severity of adverse effects can be increased:7398"
+     id="g3132"
+     transform="translate(-49.63085,-502.21635)">
+    <g
+       id="g4836"
+       transform="translate(-11.032135,38.612471)"
+       style="image-rendering:auto">
+      <circle
+         cx="583.31311"
+         cy="567.39612"
+         r="100"
+         style="fill:#f9f9f9;stroke:#ececec"
+         id="circle3070" />
+      <path
+         d="m 682.88473,576.64528 4.97857,0.46247"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3072" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+         x="689.21423"
+         y="580.18982"
+         id="text3074">drug2 can increase the central nervous system depressant (cns depressant) activities of drug1</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="0"
+         sodipodi:end="0.18525176"
+         d="m 683.31311,567.39612 a 100,100 0 0 1 -1.71101,18.4194 l -98.28899,-18.4194 z"
+         style="fill:#460101;fill-opacity:1;stroke:none"
+         id="path3076"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 679.44173,594.95228 4.80642,1.37781"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3078" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+         x="686.17041"
+         y="599.88129"
+         id="text3080">drug2 can increase the serotonergic activities of drug1</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="0.18525176"
+         sodipodi:end="0.37309705"
+         d="m 681.6021,585.81552 a 100,100 0 0 1 -5.1687,18.03071 l -93.12029,-36.45011 z"
+         style="fill:#980101;fill-opacity:1;stroke:none"
+         id="path3082"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 671.59473,614.36828 4.41408,2.34859"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3084" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+         x="677.77448"
+         y="620.65601"
+         id="text3086">drug2 can increase the qtc-prolonging activities of drug1</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="0.37309705"
+         sodipodi:end="0.604847"
+         d="m 676.4334,603.84623 a 100,100 0 0 1 -10.86138,20.41351 l -82.25891,-56.86362 z"
+         style="fill:#d40000;fill-opacity:1;stroke:none"
+         id="path3088"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 658.44573,633.38928 3.75665,3.29964"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3090" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+         x="663.70538"
+         y="641.00836"
+         id="text3092">drug1 can increase the qtc-prolonging activities of drug2</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="0.604847"
+         sodipodi:end="0.83659696"
+         d="m 665.57202,624.25974 a 100,100 0 0 1 -15.25961,17.37312 l -66.9993,-74.23674 z"
+         style="fill:#f44800;fill-opacity:1;stroke:none"
+         id="path3094"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 629.87173,655.89628 2.32792,4.42502"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3096" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+         x="633.13062"
+         y="665.09149"
+         id="text3098">When drug1 and drug2 are combined the metabolism of drug1 can be decreased</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="0.83659696"
+         sodipodi:end="1.3364062"
+         d="m 650.31241,641.63286 a 100,100 0 0 1 -43.77432,23.02887 l -23.22498,-97.26561 z"
+         style="fill:#fb8b00;fill-opacity:1;stroke:none"
+         id="path3100"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 572.51073,666.81128 -0.54011,4.97074"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3102" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#000000"
+         x="579.55487"
+         y="678.83856"
+         id="text3104">When drug2 is combined with drug1 the serum concentration of drug2 can be increased</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="1.3364062"
+         sodipodi:end="2.0216525"
+         d="m 606.53809,664.66173 a 100,100 0 0 1 -66.79861,-7.25818 l 43.57363,-90.00743 z"
+         style="fill:#eec73e;fill-opacity:1;stroke:none"
+         id="path3106"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 510.24473,635.66828 -3.65342,3.41358"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3108" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#000000"
+         x="504.44049"
+         y="645.51538"
+         id="text3110">When drug1 and drug2 are combined the metabolism of drug2 can be decreased</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="2.0216525"
+         sodipodi:end="2.758584"
+         d="M 539.73948,657.40355 A 100,100 0 0 1 490.55866,604.7674 l 92.75445,-37.37128 z"
+         style="fill:#d9bb7a;fill-opacity:1;stroke:none"
+         id="path3112"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 483.41973,562.77628 -4.99466,-0.23102"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3114" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.20823px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#000000;stroke-width:1.02314"
+         x="467.0386"
+         y="578.53528"
+         id="text3116"
+         transform="scale(1.023137,0.9773862)">When drug1 is combined with drug2 the serum concentration of drug1 can be increased</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="2.758584"
+         sodipodi:end="3.6170406"
+         d="m 490.55866,604.7674 a 100,100 0 0 1 3.84567,-83.14496 l 88.90878,45.77368 z"
+         style="fill:#fdd99b;fill-opacity:1;stroke:none"
+         id="path3118"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 540.03973,477.24428 -2.16367,-4.50761"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3120" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#000000"
+         x="534.97675"
+         y="472.92349"
+         id="text3122">When drug2 is combined with drug1 the risk or severity of adverse effects can be increased</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="3.6170406"
+         sodipodi:end="4.9126915"
+         d="m 494.40433,521.62244 a 100,100 0 0 1 108.80536,-52.22696 l -19.89658,98.00064 z"
+         style="fill:#460101;fill-opacity:1;stroke:none"
+         id="path3124"
+         sodipodi:arc-type="slice" />
+      <path
+         d="m 660.73973,504.10928 3.87131,-3.16432"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt"
+         id="path3126" />
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:sans-serif;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+         x="666.15918"
+         y="502.67957"
+         id="text3128">When drug1 is combined with drug2 the risk or severity of adverse effects can be increased</text>
+      <path
+         sodipodi:cx="583.31311"
+         sodipodi:cy="567.39612"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         sodipodi:type="arc"
+         sodipodi:start="4.9126915"
+         sodipodi:end="6.283184"
+         d="m 603.20969,469.39548 a 100,100 0 0 1 80.10342,98.00051 l -100,1.3e-4 z"
+         style="fill:#980101;fill-opacity:1;stroke:none"
+         id="path3130"
+         sodipodi:arc-type="slice" />
+    </g>
+  </g>
+</svg>
